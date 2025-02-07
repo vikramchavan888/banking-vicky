@@ -1,7 +1,8 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/PuOVqP_cjkE?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/banking/assets/151519281/3c03519c-7ebd-4539-b598-49e63d1770b4" alt="Project Banner">
+      <img src="[https://github.com/adrianhajdin/banking/assets/151519281/3c03519c-7ebd-4539-b598-49e63d1770b4](https://github.com/vikramchavan888/banking-vicky/blob/main/public/Screenshot%20(319).png?raw=true)" alt="Project Banner">
+      <img src="" alt="Project Banner">
     </a>
   <br />
   
